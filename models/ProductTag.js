@@ -14,11 +14,9 @@ ProductTag.init(
     },
     product_id: {
       type: DataTypes.INTEGER,
-      //foreign key 
     },
     tag_id: {
       type: DataTypes.INTEGER,
-      //foreign key
     }
   },
   {
